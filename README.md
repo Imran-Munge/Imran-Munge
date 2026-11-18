@@ -8,15 +8,12 @@
 <p align="center">
   <strong>Software Engineer · AI & Full-Stack Product Builder · CTO & Co-Founder at SIKE Technologies</strong>
 </p>
-<p align="center">
-  I turn practical problems and ambitious ideas into useful software.
-</p>
+<p align="center">I turn practical problems and ambitious ideas into useful software.</p>
 
 <p align="center">
   <a href="https://www.siketechnologies.com">SIKE Technologies</a> ·
   <a href="https://imran-munge-portfolio.netlify.app">Portfolio</a> ·
-  <a href="mailto:insha20munge@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+  <a href="mailto:insha20munge@gmail.com">Email</a>
 </p>
 
 ---
@@ -40,13 +37,13 @@ I enjoy working across the product lifecycle: understanding the problem, shaping
 | [SIKE Technologies](https://github.com/Imran-Munge/sike-technologies-) | Company website and digital presence for a software engineering studio. |
 | [NexusHomes](https://github.com/Imran-Munge/nexus-homes-) | Trust-first real-estate product concept focused on transparent property information and better decisions. |
 | [Lumina Health AI](https://github.com/Imran-Munge/Lumina-health-ai) | AI-assisted experience for understanding medical reports and diagnostic information. |
-| [HomeConnect](https://github.com/Imran-Munge/homeconnect) | Web application project built with React and Vite. |
-| [Netflix dashboards](https://github.com/Imran-Munge/Netflix-Power-Bi-Dashboard) | Data visualization and analysis projects using Netflix catalogue data. |
+| [QuickStitch](https://github.com/Imran-Munge/quickstitch) | Service-booking platform with provider, booking, location, review, and notification workflows. |
+| [Netflix Power BI Dashboard](https://github.com/Imran-Munge/Netflix-Power-Bi-Dashboard) | Data visualization and analysis using Netflix catalogue data. |
 
 ## Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,fastapi,django,html,css,tailwind,postgres,supabase,git,github,docker&perline=8" alt="Technologies: Python, JavaScript, TypeScript, React, Next.js, Node.js, FastAPI, Django, HTML, CSS, Tailwind, PostgreSQL, Supabase, Git, GitHub, Docker" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,fastapi,django,html,css,tailwind,postgres,supabase,git,github,docker&perline=8" alt="Python, JavaScript, TypeScript, React, Next.js, Node.js, FastAPI, Django, HTML, CSS, Tailwind, PostgreSQL, Supabase, Git, GitHub, Docker" />
 </p>
 
 I choose tools based on the product's requirements rather than forcing every project into the same stack.
